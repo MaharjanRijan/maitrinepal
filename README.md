@@ -1,2 +1,2 @@
 # First time
-Hey there! I am using GitHub for the first time. I had my interest in coding since 3 years. I even practised coding but I was failing to post them. So, the journey of Github begins...
+Hello! I am using GitHub for the first time. 
